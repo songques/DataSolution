@@ -1,0 +1,11 @@
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\Interop.SHDocVw.dll
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.csproj.ResolveComReference.cache
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.MainForm.resources
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.Properties.Resources.resources
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.csproj.GenerateResource.Cache
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\bin\Debug\WebBrowserIEProxyAPP.exe
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\bin\Debug\WebBrowserIEProxyAPP.pdb
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.exe
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.pdb
+E:\Develop\workspace for dotnet\DataSolution\WebBrowserIEProxyAPP\obj\Debug\WebBrowserIEProxyAPP.csprojResolveAssemblyReference.cache

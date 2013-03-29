@@ -1,0 +1,5 @@
+LIBRARY RegeditHrefLibrary.dll
+EXPORTS 
+	Dll_Mul @1
+	RegeditHrefValue @2
+	Regsvr32Href @3

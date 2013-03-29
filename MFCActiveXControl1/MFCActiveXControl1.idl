@@ -1,0 +1,51 @@
+// MFCActiveXControl1.idl : ActiveX 控件项目的类型库源。
+
+// 此文件将由 MIDL 编译器工具处理以
+// 产生类型库(MFCActiveXControl1.tlb)，该类型库将成为
+// MFCActiveXControl1.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(015B41D4-81A8-420D-9E71-F7D67C5C5300), version(1.0),
+  control ]
+library MFCActiveXControl1Lib
+{
+	importlib(STDOLE_TLB);
+
+	//  CMFCActiveXControl1Ctrl 的主调度接口
+	[ 
+		uuid(D963BBD5-0743-4B07-88D8-E8BEA4684008)	
+	]
+	dispinterface _DMFCActiveXControl1
+	{
+		properties:
+		methods:
+
+			[id(DISPID_ABOUTBOX)] void AboutBox();
+	};
+
+	//  CMFCActiveXControl1Ctrl 的事件调度接口
+
+	[ 
+		uuid(63BB3A9F-856B-4C92-831C-DB1998B33ACE)	
+	]
+	dispinterface _DMFCActiveXControl1Events
+	{
+		properties:
+			//  事件接口没有任何属性
+
+		methods:
+	};
+
+	//  CMFCActiveXControl1Ctrl 的类信息
+	[
+		uuid(474A7D8B-B74D-4E47-9ABE-DFCC5C2589CB)
+	]
+	coclass MFCActiveXControl1
+	{
+		[default] dispinterface _DMFCActiveXControl1;
+		[default, source] dispinterface _DMFCActiveXControl1Events;
+	};
+
+};

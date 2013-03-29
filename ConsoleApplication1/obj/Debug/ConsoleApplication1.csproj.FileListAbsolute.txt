@@ -1,0 +1,12 @@
+E:\Develop\workspace for dotnet\DataSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Develop\workspace for dotnet\DataSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Develop\workspace for dotnet\DataSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Develop\workspace for dotnet\DataSolution\Release\ConsoleApplication1.exe.config
+E:\Develop\workspace for dotnet\DataSolution\Release\ConsoleApplication1.exe
+E:\Develop\workspace for dotnet\DataSolution\Release\ConsoleApplication1.pdb
+E:\Develop\workspace for dotnet\DataSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Develop\workspace for dotnet\DataSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Develop\workspace for dotnet\DataSolution\Debug\ConsoleApplication1.exe.config
+E:\Develop\workspace for dotnet\DataSolution\Debug\ConsoleApplication1.exe
+E:\Develop\workspace for dotnet\DataSolution\Debug\ConsoleApplication1.pdb
+E:\Develop\workspace for dotnet\DataSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
