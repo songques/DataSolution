@@ -1,6 +1,5 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CDemo01", "CDemo01\CDemo01.vcxproj", "{3C195842-FD84-4673-86BC-22CAF841CFF4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CDemo02", "CDemo02\CDemo02.vcxproj", "{EF586433-0636-4C80-ACB0-B404E9F0300C}"
